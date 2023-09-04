@@ -13,6 +13,7 @@ Masters can add, update, or delete employee records in the database.
 #Responsive UI:
 User-friendly and responsive user interface for easy navigation and interaction.
 
+![image](https://github.com/bikashSharma1499/Employee-Management/assets/110386971/8deb750d-a594-4fc5-9cbf-ce3cb7268625)
 
 
 ![image](https://github.com/bikashSharma1499/Employee-Management/assets/110386971/e00e1e05-08fd-439b-8271-fd26645a658a)
